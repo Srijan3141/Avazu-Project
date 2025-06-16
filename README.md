@@ -15,6 +15,12 @@ This project focuses on predicting click-through rates (CTR) using the Avazu dat
 2. Run the training script with chosen hyperparameters.
 3. Generate predictions and submit to Kaggle.
 
+## Results
+
+Here is my Kaggle score:
+
+![Kaggle Score](kaggle-score.jpg)
+
 ## Requirements
 
 - Python 3.x
