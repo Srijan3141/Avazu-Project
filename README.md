@@ -1,6 +1,6 @@
 # Avazu Click-Through Rate Prediction
 
-This project focuses on predicting click-through rates (CTR) using the Avazu dataset from Kaggle. The model leverages **XGBoost** combined with **bagging** to improve robustness and reduce overfitting. Extensive **hyperparameter tuning** was performed to optimize performance.
+This project focuses on predicting click-through rates (CTR) using the Avazu dataset from Kaggle. The model leverages **XGBoost** combined with **bagging** to improve robustness and reduce overfitting. Feature Engineering and extensive **hyperparameter tuning** was performed to optimize performance.
 
 ## Features
 
