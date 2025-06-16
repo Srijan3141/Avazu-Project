@@ -19,7 +19,7 @@ This project focuses on predicting click-through rates (CTR) using the Avazu dat
 
 Here is my Kaggle score:
 
-![Kaggle Score](kaggle-score.jpg)
+![Kaggle Score](Kaggle_Score.jpg)
 
 ## Requirements
 
